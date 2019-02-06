@@ -16,6 +16,6 @@
 - Jalankan Perintah php artisan migrate (Untuk Memigrasikan Tabel-tabel)
 - Jalankan Perintah php artisan db:seed (Untuk Menambahkan Data Dummy)
 - Buaka Aplikasi
-- Masuk Dengan username : Admin dan Password: Admin
+- Masuk Dengan username : admin dan Password: admin
  
  BY Supriatna-10916006
